@@ -1,0 +1,4 @@
+2015-03-17
+The file wgEncodeAwgTfbs_with_JASPAR_MA.csv has been created by taking all the
+ENCODE data set uniformly processed (see ../20150306) and manually associating
+JASPAR profiles when possible.
