@@ -1,0 +1,4 @@
+ROC AUC 1mer+DNAshape: 0.652057
+PR AUC 1mer+DNAshape: 0.666902
+ROC AUC 1mer: 0.645044
+PR AUC 1mer: 0.651993
