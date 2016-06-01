@@ -1,7 +1,7 @@
 # DNAshapedTFBS_notebooks
 
 This directory contains the data and IPython notebooks used to generate the figures in our
-manuscript *DNA shape features improve transcription factor binding site predictions *in vivo
+manuscript *DNA shape features improve transcription factor binding site predictions* in vivo
 (Mathelier *et al.*, 2016, under review).
 
 ## Notebooks
