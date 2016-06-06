@@ -15,7 +15,7 @@ Data Set S1.
 - EncodeReccurentPeaksGCmatched1st2ndDNAshapeDimo.ipynb: Used to generate plots
 for Figures in Data Set S4.
 - EncodeGCmatched1st2ndDNAshapeDimoMethodsComparisons.ipynb: Used to generate
-plots for Figures in Data Set S5.
+plots for Figure 3 and Figures in Data Set S5.
 - MADS_combined.ipynb: Used to generate plots for Figures 5B, 7A and S5B.
 - PlantsGCmatched1st2ndDNAshapeDimo.ipynb: Used to generate plots for Figure
 S2.
